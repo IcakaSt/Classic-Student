@@ -1,0 +1,236 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      57
+    ],
+    "SourceCsetId": 59,
+    "DestinationCsetId": 57,
+    "FileConflicts": [
+      {
+        "Path": "/ProjectSettings/EditorBuildSettings.asset",
+        "ItemId": 135,
+        "ParentItemId": 128,
+        "BaseRevId": 1909,
+        "SourceRevId": 2801,
+        "DestinationRevId": 1909
+      },
+      {
+        "Path": "/ProjectSettings/TagManager.asset",
+        "ItemId": 146,
+        "ParentItemId": 128,
+        "BaseRevId": 1714,
+        "SourceRevId": 2803,
+        "DestinationRevId": 1714
+      },
+      {
+        "Path": "/ProjectSettings/ProjectSettings.asset",
+        "ItemId": 143,
+        "ParentItemId": 128,
+        "BaseRevId": 2377,
+        "SourceRevId": 2802,
+        "DestinationRevId": 2377
+      },
+      {
+        "Path": "/Assets/Prefabs/AnswerText.prefab",
+        "ItemId": 1004,
+        "ParentItemId": 889,
+        "BaseRevId": 1901,
+        "SourceRevId": 2776,
+        "DestinationRevId": 1901
+      },
+      {
+        "Path": "/Assets/Prefabs/Buttons/ResultButton.prefab",
+        "ItemId": 1252,
+        "ParentItemId": 1007,
+        "BaseRevId": 1845,
+        "SourceRevId": 2777,
+        "DestinationRevId": 1845
+      },
+      {
+        "Path": "/Assets/Prefabs/Skins/0/_Body.mat",
+        "ItemId": 2225,
+        "ParentItemId": 1944,
+        "BaseRevId": 2203,
+        "SourceRevId": 2778,
+        "DestinationRevId": 2203
+      },
+      {
+        "Path": "/Assets/Prefabs/Skins/0/_Body_Mid.mat",
+        "ItemId": 2227,
+        "ParentItemId": 1944,
+        "BaseRevId": 2205,
+        "SourceRevId": 2779,
+        "DestinationRevId": 2205
+      },
+      {
+        "Path": "/Assets/Scenes/AllTests.unity",
+        "ItemId": 1029,
+        "ParentItemId": 894,
+        "BaseRevId": 1843,
+        "SourceRevId": 2780,
+        "DestinationRevId": 1843
+      },
+      {
+        "Path": "/Assets/Scenes/Choose.unity",
+        "ItemId": 1031,
+        "ParentItemId": 894,
+        "BaseRevId": 265,
+        "SourceRevId": 2781,
+        "DestinationRevId": 265
+      },
+      {
+        "Path": "/Assets/Scenes/GameOver.unity",
+        "ItemId": 1033,
+        "ParentItemId": 894,
+        "BaseRevId": 267,
+        "SourceRevId": 2782,
+        "DestinationRevId": 267
+      },
+      {
+        "Path": "/Assets/Scenes/MakeTest.unity",
+        "ItemId": 1037,
+        "ParentItemId": 894,
+        "BaseRevId": 2193,
+        "SourceRevId": 2784,
+        "DestinationRevId": 2193
+      },
+      {
+        "Path": "/Assets/Scenes/MenuStudent.unity",
+        "ItemId": 1039,
+        "ParentItemId": 894,
+        "BaseRevId": 1911,
+        "SourceRevId": 2785,
+        "DestinationRevId": 1911
+      },
+      {
+        "Path": "/Assets/Scenes/Nickname.unity",
+        "ItemId": 1043,
+        "ParentItemId": 894,
+        "BaseRevId": 2194,
+        "SourceRevId": 2786,
+        "DestinationRevId": 2194
+      },
+      {
+        "Path": "/Assets/Scenes/Play Scene.unity",
+        "ItemId": 1045,
+        "ParentItemId": 894,
+        "BaseRevId": 2363,
+        "SourceRevId": 2787,
+        "DestinationRevId": 2363
+      },
+      {
+        "Path": "/Assets/Scenes/ReadyScene.unity",
+        "ItemId": 1047,
+        "ParentItemId": 894,
+        "BaseRevId": 2370,
+        "SourceRevId": 2788,
+        "DestinationRevId": 2370
+      },
+      {
+        "Path": "/Assets/Scenes/TestCode.unity",
+        "ItemId": 1053,
+        "ParentItemId": 894,
+        "BaseRevId": 1759,
+        "SourceRevId": 2789,
+        "DestinationRevId": 1759
+      },
+      {
+        "Path": "/Assets/Scenes/Log In.unity",
+        "ItemId": 1035,
+        "ParentItemId": 894,
+        "BaseRevId": 2379,
+        "SourceRevId": 2783,
+        "DestinationRevId": 2379
+      },
+      {
+        "Path": "/Assets/Scripts/All Tests/ShowTests.cs",
+        "ItemId": 1274,
+        "ParentItemId": 1058,
+        "BaseRevId": 2499,
+        "SourceRevId": 2790,
+        "DestinationRevId": 2499
+      },
+      {
+        "Path": "/Assets/Scripts/Game Over/GameOver.cs",
+        "ItemId": 1280,
+        "ParentItemId": 1064,
+        "BaseRevId": 2500,
+        "SourceRevId": 2791,
+        "DestinationRevId": 2500
+      },
+      {
+        "Path": "/Assets/Scripts/LogIn and Register/LogIn.cs",
+        "ItemId": 1292,
+        "ParentItemId": 1070,
+        "BaseRevId": 2506,
+        "SourceRevId": 2795,
+        "DestinationRevId": 2506
+      },
+      {
+        "Path": "/Assets/Scripts/LogIn and Register/Register.cs",
+        "ItemId": 1296,
+        "ParentItemId": 1070,
+        "BaseRevId": 2508,
+        "SourceRevId": 2796,
+        "DestinationRevId": 2508
+      },
+      {
+        "Path": "/Assets/Scripts/Nickname/SaveNames.cs",
+        "ItemId": 1300,
+        "ParentItemId": 1076,
+        "BaseRevId": 476,
+        "SourceRevId": 2797,
+        "DestinationRevId": 476
+      },
+      {
+        "Path": "/Assets/Scripts/PlayScene/GenerateAnswers.cs",
+        "ItemId": 1312,
+        "ParentItemId": 1082,
+        "BaseRevId": 2511,
+        "SourceRevId": 2799,
+        "DestinationRevId": 2511
+      },
+      {
+        "Path": "/Assets/Scripts/Player/BasicMovement.cs",
+        "ItemId": 1314,
+        "ParentItemId": 1085,
+        "BaseRevId": 2108,
+        "SourceRevId": 2798,
+        "DestinationRevId": 2108
+      },
+      {
+        "Path": "/Assets/Scripts/Test Code/InsertCode.cs",
+        "ItemId": 1320,
+        "ParentItemId": 1088,
+        "BaseRevId": 2512,
+        "SourceRevId": 2800,
+        "DestinationRevId": 2512
+      },
+      {
+        "Path": "/Assets/Scripts/Inserter/ChooseQuestions.cs",
+        "ItemId": 1284,
+        "ParentItemId": 1067,
+        "BaseRevId": 2502,
+        "SourceRevId": 2792,
+        "DestinationRevId": 2502
+      },
+      {
+        "Path": "/Assets/Scripts/Inserter/Classes.cs",
+        "ItemId": 1286,
+        "ParentItemId": 1067,
+        "BaseRevId": 2503,
+        "SourceRevId": 2793,
+        "DestinationRevId": 2503
+      },
+      {
+        "Path": "/Assets/Scripts/Inserter/Inserter.cs",
+        "ItemId": 1288,
+        "ParentItemId": 1067,
+        "BaseRevId": 2671,
+        "SourceRevId": 2794,
+        "DestinationRevId": 2671
+      }
+    ]
+  }
+]

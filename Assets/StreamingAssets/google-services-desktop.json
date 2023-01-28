@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17428026676",
+    "firebase_url": "https://classic-student-firebase-66190-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "classic-student-firebase-66190",
+    "storage_bucket": "classic-student-firebase-66190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17428026676:android:17fb4aedc6b911a5860161",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.ClassicStudent3DFYP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17428026676-tpdl9hk771lcl2b62268c4ut04imr60i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnO6f-b7--X8RryWVvgvEExJHVg8JQ9u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17428026676-tpdl9hk771lcl2b62268c4ut04imr60i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
